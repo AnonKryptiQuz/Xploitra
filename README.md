@@ -51,4 +51,4 @@
 
 ## **Author**
 
-**Created by:** [AnonKryptiQuz](https://x.com/AnonKryptiQuz)
+**Created by:** [AnonKryptiQuz](https://AnonKryptiQuz.github.io/)
