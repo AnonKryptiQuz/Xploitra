@@ -49,6 +49,10 @@
 
 3. **After generation, the payload will be saved as a `.bat` file, which is compatible with Windows systems.**
 
+## **Disclaimer**
+
+- **Educational Purposes Only**: Xploitra is intended for educational and research use. The tool should not be used for illegal or malicious activities. It is the user’s responsibility to ensure compliance with local laws and regulations.
+
 ## **Author**
 
 **Created by:** [AnonKryptiQuz](https://AnonKryptiQuz.github.io/)
